@@ -29,7 +29,7 @@ public class StringExamples {
         System.out.println("Is 2 and '2' equal : " + twoString.equals(2));
         // ignore case vs regular
         System.out.println("With ignore case : " + firstName.equalsIgnoreCase("PJ "));
-        System.out.println("Withut ignore case : " + firstName.equals("PJ "));
+        System.out.println("Without ignore case : " + firstName.equals("PJ "));
         // Replace
         String sentence = "software testing is a very painful course";
         System.out.println("Before replacement : " + sentence);
